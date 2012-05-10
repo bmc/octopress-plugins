@@ -14,8 +14,8 @@ and demonstration, of this plugin.
 
 Add these lines to your blog's `Gemfile`:
 
-    gem `erubis`
-    gem `mini_magick`
+    gem 'erubis'
+    gem 'mini_magick'
 
 `mini_magick`, in turn, requires that the Image Magick *mogrify*(1) command
 be installed and in your path.

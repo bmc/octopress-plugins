@@ -18,7 +18,7 @@
 # Example:
 #
 #   {% codeblock lang:ruby %}
-#     {% github bmc/brizzled e075222a56ea062d33be86e410f98f252e72b3fd %}
+#     {% github bmc/octopress-plugins 4d1efaac98ff3f2c566497ebb6367627e3ab2597 %}
 #   {% endcodeblock %}
 #
 # Copyright (c) 2012 Brian M. Clapper <bmc@clapper.org>

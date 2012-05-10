@@ -72,7 +72,7 @@ If it's code, you might want to put it inside a codeblock.
 Example:
 
     {% codeblock lang:ruby %}
-      {% github bmc/octopress-plugins 4d1efaac98ff3f2c566497ebb6367627e3ab2597 %}
+      {% github bmc/octopress-plugins fefb9d97158ce9c96b4679e0e84b3dc69b6dcf20 %}
     {% endcodeblock %}
 
 [blog-image-popup]: http://brizzled.clapper.org/blog/2012/02/05/a-simple-octopress-image-popup-plugin/

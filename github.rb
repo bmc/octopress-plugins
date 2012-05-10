@@ -18,7 +18,7 @@
 # Example:
 #
 #   {% codeblock lang:ruby %}
-#     {% github bmc/octopress-plugins 4d1efaac98ff3f2c566497ebb6367627e3ab2597 %}
+#     {% github bmc/octopress-plugins fefb9d97158ce9c96b4679e0e84b3dc69b6dcf20 %}
 #   {% endcodeblock %}
 #
 # Copyright (c) 2012 Brian M. Clapper <bmc@clapper.org>
